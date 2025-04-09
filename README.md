@@ -12,3 +12,9 @@ Antes del primer commit, así esos archivos no son seguidos desde el principio.
 
 ## ¿Cómo se configura el archivo .gitignore?
 Se agregan reglas, una por línea, que le indican a Git qué archivos o carpetas ignorar.
+
+## Punto 3 - g
+
+El puntero almacena la dirección de memoria de la variable, y cuando accedemos al contenido del puntero, estamos yendo a esa dirección a buscar el valor.
+
+El punto 4 sí es distinto, porque el puntero también es una variable, y vive en otra parte de la memoria. Tiene su propia dirección.
