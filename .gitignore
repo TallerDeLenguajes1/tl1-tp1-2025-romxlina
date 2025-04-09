@@ -22,3 +22,5 @@
 
 # Fin de https://www.toptal.com/developers/gitignore/api/visualstudiocode
 ignorado.txt
+
+*.exe
